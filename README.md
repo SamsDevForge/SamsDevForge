@@ -77,6 +77,16 @@ A mobile-first daily assistant bringing together weather, news briefs, medicine 
 </tr>
 </table>
 
+### Collaborative work · [Pyxis](https://github.com/Harshvardhan226510/NASA-2026-mars)
+
+<a href="https://github.com/Harshvardhan226510/NASA-2026-mars"><img src="./assets/project-pyxis.svg" alt="Pyxis — a collaborative Mars mapping project spanning web and desktop" width="100%"></a>
+
+**Role: contributor.** A team-built Mars explorer spanning 3D mapping, route-planning experiments, and web/desktop workflows. My public contributions include repository organization for the web and desktop apps, and mission-planning integration.
+
+`JavaScript` `Python` `CesiumJS` `Leaflet` `Electron`
+
+[Team repository](https://github.com/Harshvardhan226510/NASA-2026-mars) · [My contributions](https://github.com/Harshvardhan226510/NASA-2026-mars/commits?author=SamsDevForge)
+
 ## Tech stack
 
 <picture>
@@ -88,7 +98,7 @@ A mobile-first daily assistant bringing together weather, news briefs, medicine 
 | Where I use it | Technologies |
 | :--- | :--- |
 | **Web interfaces** | React · Next.js · Vite · Tailwind CSS |
-| **3D experiences** | Three.js · React Three Fiber · Drei |
+| **3D & geospatial** | Three.js · React Three Fiber · CesiumJS · Leaflet |
 | **APIs & data** | FastAPI · Express · SQLite · PostgreSQL |
 | **Vision & devices** | MediaPipe · ONNX Runtime · Capacitor · Android |
 | **Desktop software** | Electron · Win32 · CMake |
