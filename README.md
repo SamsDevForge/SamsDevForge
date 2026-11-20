@@ -106,4 +106,3 @@ A mobile-first daily assistant bringing together weather, news briefs, medicine 
   <strong>Explore a project. Read the implementation. Follow the next iteration.</strong><br>
   <sub>Original work is featured above; upstream forks remain credited to their maintainers.</sub>
 </p>
-
