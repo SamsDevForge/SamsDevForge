@@ -39,9 +39,11 @@ A statement review workspace with validated CSV imports, cash-flow analysis, tra
 
 ### [NxTYield](https://github.com/SamsDevForge/NxTYield_Final)
 
-An agriculture dashboard connecting sensor data, weather, crop prediction, and AI-assisted insights with a visual digital farm twin.
+An IoT smart agriculture system that brings soil and environmental parameters into crop and irrigation decisions. Arduino field sensing, RS485 NPK integration, a FastAPI backend, automatic and remote watering, ML-based crop recommendations, weather, and AI-assisted insights connect to a visual digital farm twin.
 
-`React` `Vite` `Three.js` `API functions`
+🏆 **1st Runner-Up · Makers Conclave, Hyderabad · ₹1,00,000 prize**
+
+`Arduino UNO R4 WiFi` `C++` `FastAPI` `React` `Three.js`
 
 [Explore the code](https://github.com/SamsDevForge/NxTYield_Final) · [Setup](https://github.com/SamsDevForge/NxTYield_Final#readme)
 
@@ -67,7 +69,7 @@ A cinematic landing experience combining interactive 3D, motion, and a focused v
 
 ### [Dad's Daily Driver](https://github.com/SamsDevForge/Dad-s_Daily_Driver_Final)
 
-A mobile-first daily assistant bringing together weather, news briefs, medicine reminders, events, and a document vault.
+A **Father’s Day project** built as a mobile-first daily assistant, bringing together weather, news briefs, medicine reminders, events, and a document vault.
 
 `React` `Vite` `Express` `PWA`
 
