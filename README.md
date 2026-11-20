@@ -77,15 +77,20 @@ A mobile-first daily assistant bringing together weather, news briefs, medicine 
 </tr>
 </table>
 
-### Collaborative work · [Pyxis](https://github.com/Harshvardhan226510/NASA-2026-mars)
+### Collaborative work · [Pyxis / Team RevoRed](https://github.com/Harshvardhan226510/NASA-2026-mars)
 
-<a href="https://github.com/Harshvardhan226510/NASA-2026-mars"><img src="./assets/project-pyxis.svg" alt="Pyxis — a collaborative Mars mapping project spanning web and desktop" width="100%"></a>
+<a href="https://github.com/Harshvardhan226510/NASA-2026-mars"><img src="./assets/project-pyxis.svg" alt="Pyxis — a collaborative Mars exploration and mission-planning project spanning web and desktop" width="100%"></a>
 
-**Role: contributor.** A team-built Mars explorer spanning 3D mapping, route-planning experiments, and web/desktop workflows. My public contributions include repository organization for the web and desktop apps, and mission-planning integration.
+**My role: product direction, interface and integration design, cross-platform QA, repository coordination, and creative direction.** I helped guide Pyxis from a Mars mapping website toward a broader web and desktop mission-planning project.
+
+- **Mission planning and scientific context:** defined requirements for EVA routes and return reserves, landing/base-site evaluation, camps, and a point inspector with source attribution and clear distinctions between observed, derived, modeled, simulated, and unavailable data.
+- **Offline maps and desktop workflows:** specified a customizable Map Manager with resolution, region, and storage choices; coordinated scientific imagery collection, Windows/Linux/Raspberry Pi workflows, and build and interface testing.
+- **Interfaces and integrations:** designed layouts and interaction flows, location and telemetry API requirements, dead-reckoning and drift-correction workflows, and local AI and voice integration requirements.
+- **Delivery and demonstration:** coordinated web/desktop repositories and deployment work, and directed a **29.8-second, 1080p/60 fps commercial** using real application footage and a simulated crew scenario.
 
 `JavaScript` `Python` `CesiumJS` `Leaflet` `Electron`
 
-[Team repository](https://github.com/Harshvardhan226510/NASA-2026-mars) · [My contributions](https://github.com/Harshvardhan226510/NASA-2026-mars/commits?author=SamsDevForge)
+[Team repository](https://github.com/Harshvardhan226510/NASA-2026-mars) · [Public commits](https://github.com/Harshvardhan226510/NASA-2026-mars/commits?author=SamsDevForge)
 
 ## Tech stack
 
